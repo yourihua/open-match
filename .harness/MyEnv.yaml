@@ -1,0 +1,7 @@
+environment:
+  name: MyEnv
+  identifier: MyEnv
+  accountId: qIGJEkLgRqWyg8CcKNIQRg
+  orgIdentifier: default
+  projectIdentifier: funnyland
+  type: PreProduction
