@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_yourihua_open_match_1710128379033-pr-trigger-input-set
+  identifier: Build_yourihua_open_match_1710128379033prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_yourihua_open_match_1710128379033
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
